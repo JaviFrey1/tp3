@@ -2,7 +2,7 @@
 
 📘 En este TP se desarrollan ejercicios enfocados en el uso de estructuras condicionales en python
 
-📌 Cada ejercicio se encuentra en un archivo `.py` diferente, con su correspondiente explicación y comentarios en el código para facilitar su comprensión.
+📌 Cada ejercicio se encuentra en un mismo archivo `.py`.
 
 ---
 
